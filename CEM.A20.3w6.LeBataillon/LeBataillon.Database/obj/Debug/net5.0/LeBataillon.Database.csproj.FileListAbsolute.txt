@@ -1,0 +1,9 @@
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\bin\Debug\net5.0\LeBataillon.Database.deps.json
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\bin\Debug\net5.0\LeBataillon.Database.dll
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\bin\Debug\net5.0\LeBataillon.Database.pdb
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.csprojAssemblyReference.cache
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.AssemblyInfoInputs.cache
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.AssemblyInfo.cs
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.csproj.CoreCompileInputs.cache
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.dll
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\net5.0\LeBataillon.Database.pdb
