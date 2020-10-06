@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wW2eTCaRQQdqzr/50La8tOuyJ3nMX9yYOFBGPetVSX9M3Q3Z7jRmMM7APb5RQw9uKWJ/zZBWnyag0shoK7Whw==",
+  "dgSpecHash": "UEJ+XvxQvrfMkotZKFbjlmks6JC3y/ObLcKW2g0sLbKvkjHd7bja2UvLJAZJhXEaa5JqUL3IXQcLmxHTcYCBlw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj",
+  "projectFilePath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigue\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {}
+    "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {
+    "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
+        "projectUniqueName": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
         "projectName": "LeBataillon.Database",
-        "projectPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
+        "projectPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
         "packagesPath": "C:\\Users\\bigue\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\obj\\",
+        "outputPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bigue\\AppData\\Roaming\\NuGet\\NuGet.Config",

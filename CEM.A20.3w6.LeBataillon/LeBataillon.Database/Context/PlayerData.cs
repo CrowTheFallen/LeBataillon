@@ -31,6 +31,8 @@ namespace LeBataillon.Database.Context
                 Data.Add(new Player(i, $"{name}Alias", $"{name}@bataillonMail.com", SampleData.GeneratePhoneNumber(i), SampleData.GenerateName(i + 1), SampleData.GenerateLastName(i), SampleData.GenerateLevel()));
             }
         }
+
+
     }
 
 
