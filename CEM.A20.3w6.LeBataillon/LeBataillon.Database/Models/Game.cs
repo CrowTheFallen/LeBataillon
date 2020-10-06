@@ -1,5 +1,5 @@
 using System;
-
+using System.ComponentModel.DataAnnotations;
 namespace LeBataillon.Database.Models
 {
     public class Game
@@ -27,7 +27,10 @@ namespace LeBataillon.Database.Models
             this.TeamAttacker = g.TeamAttacker;
 
         }
+        [Key]
+        [Required]
         public int Id { get; set; }
+        [Required]
         public DateTime GameDateTime { get; set; }
         public int TeamDefendant { get; set; }
         public int TeamAttacker { get; set; }

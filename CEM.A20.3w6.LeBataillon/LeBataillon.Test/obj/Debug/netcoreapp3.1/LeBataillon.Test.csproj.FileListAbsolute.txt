@@ -477,3 +477,5 @@ C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataill
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Test\obj\Debug\netcoreapp3.1\LeBataillon.Test.dll
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Test\obj\Debug\netcoreapp3.1\LeBataillon.Test.pdb
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Test\obj\Debug\netcoreapp3.1\LeBataillon.Test.genruntimeconfig.cache
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll

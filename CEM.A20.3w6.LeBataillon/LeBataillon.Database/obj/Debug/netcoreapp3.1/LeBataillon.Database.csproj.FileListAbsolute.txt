@@ -7,3 +7,6 @@ C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataill
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\netcoreapp3.1\LeBataillon.Database.csproj.CoreCompileInputs.cache
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\netcoreapp3.1\LeBataillon.Database.dll
 C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\netcoreapp3.1\LeBataillon.Database.pdb
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\bin\Debug\netcoreapp3.1\LeBataillon.Database.runtimeconfig.json
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\bin\Debug\netcoreapp3.1\LeBataillon.Database.runtimeconfig.dev.json
+C:\Users\bigue\Desktop\Web\Travail\LeBataillon\CEM.A20.3w6.LeBataillon\LeBataillon.Database\obj\Debug\netcoreapp3.1\LeBataillon.Database.genruntimeconfig.cache
