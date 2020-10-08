@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZ1BSBuhHSF2L6oET+Tk3rUhrjTG633/Z+wLhfmcAaisoVQh+/pxdKXwyoW4zYK548F3B7VgEd6ayxAVLRuGJw==",
+  "dgSpecHash": "vQDy9vaOxNIGm1+DDZhlS56z5wfWlx608brdhj2H9bHy1Jjssd5Rl7XBJvy1vOk6D4ynVIGnigx7rcHlj7bCsA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
+  "projectFilePath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigue\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

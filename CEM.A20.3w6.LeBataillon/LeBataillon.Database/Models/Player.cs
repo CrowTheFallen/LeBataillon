@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace LeBataillon.Database.Models
@@ -35,15 +36,30 @@ namespace LeBataillon.Database.Models
         }
         [Key]
         public int Id { get; set; }
+        [Display(Name = "Surnom")]
         public string NickName { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Veuillez désigner un adresse email ")]
+        [MaxLength(50)]
+        [Display(Name = "Émail")]
         public string Email { get; set; }
+        [Display(Name = "Numéro de téléphone")]
         public string PhoneNumber { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Veuillez désigner un prénom")]
+        [MaxLength(50)]
+        [Display(Name = "Nom du joueur")]
         public string FirstName { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Veuillez désigner un nom de famille")]
+        [MaxLength(50)]
+        [Display(Name = "Nom de famille du joueur")]
         public string LastName { get; set; }
+        [Range(0, 3)]
+        [Display(Name = "Niveau du joueur")]
         public PlayerLevel Level { get; set; }
+
+        //public virtual Player Captain { get; set; }
+
+
+
 
     }
 }

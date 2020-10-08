@@ -4,14 +4,16 @@ using LeBataillon.Database.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace LeBataillon.Database.Migrations
 {
     [DbContext(typeof(PlayerData))]
-    partial class PlayerDataModelSnapshot : ModelSnapshot
+    [Migration("20201008181219_AddGameV2")]
+    partial class AddGameV2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -89,9 +91,6 @@ namespace LeBataillon.Database.Migrations
                     b.Property<int>("Captain")
                         .HasColumnType("int")
                         .HasMaxLength(1);
-
-                    b.Property<int>("JoueurMaximum")
-                        .HasColumnType("int");
 
                     b.Property<string>("TeamName")
                         .IsRequired()

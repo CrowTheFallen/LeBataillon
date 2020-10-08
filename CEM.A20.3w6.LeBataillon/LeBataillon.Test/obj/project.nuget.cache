@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfxbprviKrHuJ9mlYdiAPXg8+Qt7AoocEJVThcLCB20pkKIvqF2Fp4ePXAB7EnmFFU3hpwmgcCzkU3b63RDd1g==",
+  "dgSpecHash": "UYg2rwJHjfTndNH+sVCUI3P6t9Hi20BRgyMp1X5WIjffvrBv8KH85ZqWeUnB0xb6Gb0QDCIlta3MEKyLKQmUvw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
+  "projectFilePath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigue\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
@@ -63,6 +63,7 @@
     "C:\\Users\\bigue\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.4\\microsoft.visualstudio.web.codegenerators.mvc.3.1.4.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\bigue\\.nuget\\packages\\moq\\4.14.6\\moq.4.14.6.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",

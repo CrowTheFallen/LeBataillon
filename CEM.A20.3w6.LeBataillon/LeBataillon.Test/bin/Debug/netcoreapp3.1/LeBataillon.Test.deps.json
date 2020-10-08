@@ -28,6 +28,7 @@
           "LeBataillon.Web": "1.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.6",
           "Microsoft.NET.Test.Sdk": "16.5.0",
+          "Moq": "4.14.6",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0",
@@ -1445,6 +1446,21 @@
         "dependencies": {
           "System.Security.AccessControl": "4.5.0",
           "System.Security.Principal.Windows": "4.5.0"
+        }
+      },
+      "Moq/4.14.6": {
+        "dependencies": {
+          "Castle.Core": "4.4.0",
+          "System.Threading.Tasks.Extensions": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Moq.dll": {
+            "assemblyVersion": "4.14.0.0",
+            "fileVersion": "4.14.6.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Moq.dll": {}
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -4664,6 +4680,13 @@
       "sha512": "sha512-+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
+    },
+    "Moq/4.14.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o0SH3WvqGmBSePHlHgX3TkRorqw5cqUJUCnBMJyeIIGxLT7/J6cK8YddD35qB+PeALtYpJ48894m5iiAZ0kxDA==",
+      "path": "moq/4.14.6",
+      "hashPath": "moq.4.14.6.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

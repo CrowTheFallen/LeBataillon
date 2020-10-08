@@ -4,14 +4,16 @@ using LeBataillon.Database.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace LeBataillon.Database.Migrations
 {
     [DbContext(typeof(PlayerData))]
-    partial class PlayerDataModelSnapshot : ModelSnapshot
+    [Migration("20201008183539_AddGameV3")]
+    partial class AddGameV3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
