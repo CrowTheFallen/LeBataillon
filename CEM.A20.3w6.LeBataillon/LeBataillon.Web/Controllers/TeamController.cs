@@ -54,7 +54,7 @@ namespace LeBataillon.Web.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,TeamName,Captain")] Team team)
+        public async Task<IActionResult> Create([Bind("Id,TeamName,CaptainId,JoueurMaximum")] Team team)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace LeBataillon.Web.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,TeamName,Captain")] Team team)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,TeamName,CaptainId,JoueurMaximum")] Team team)
         {
             if (id != team.Id)
             {

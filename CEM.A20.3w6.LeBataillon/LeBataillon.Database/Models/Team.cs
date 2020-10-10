@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using LeBataillon.Database.Context;
@@ -13,20 +14,20 @@ namespace LeBataillon.Database.Models
 
         }
 
-        public Team(int Id, string TeamName, int Captain, int JoueurMaximum)
+        public Team(int Id, string TeamName, int JoueurMaximum, int? CaptainId)
         {
             this.Id = Id;
             this.TeamName = TeamName;
-            this.Captain = Captain;
             this.JoueurMaximum = JoueurMaximum;
+            this.CaptainId = CaptainId;
         }
 
         public void EditFrom(Team t)
         {
             this.Id = t.Id;
             this.TeamName = t.TeamName;
-            this.Captain = t.Captain;
-            this.JoueurMaximum = JoueurMaximum;
+            this.JoueurMaximum = t.JoueurMaximum;
+            this.CaptainId = t.CaptainId;
         }
 
         [Key]
@@ -38,14 +39,17 @@ namespace LeBataillon.Database.Models
         public string TeamName { get; set; }
 
         [Required(ErrorMessage = "Veuillez désigner un capitaine")]
-        [MaxLength(1)]
         [Display(Name = "Capitaine")]
-        //[ForeignKey("CaptainId")]
-        public int Captain { get; set; }
+        [ForeignKey("CaptainId")]
+        public Player Captain;
 
         [Required(ErrorMessage = "Veuillez désigner un nombre de personne maximum")]
-        [Range(6, 12)]
+        [Range(6, 12, ErrorMessage = "Il faut que le nombre soit entre 6 et 12")]
         [Display(Name = "Nombre de joueur maximum")]
         public int JoueurMaximum { get; set; }
+
+        public int? CaptainId { get; set; }
+        [InverseProperty("Team")]
+        public List<Player> Players;
     }
 }

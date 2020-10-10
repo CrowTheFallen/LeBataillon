@@ -28,6 +28,16 @@ namespace LeBataillon.Database.MockData
                    FirstName = "Pepito",
                    LastName = "Sanchez",
                    Level = PlayerLevel.avancé
+                },
+                new Player()
+                {
+                   Id = 3,
+                   NickName = "Pepo",
+                   Email = "Will19@hotmail.com",
+                   PhoneNumber = "450-234-7272",
+                   FirstName = "Pep",
+                   LastName = "Damn",
+                   Level = PlayerLevel.avancé
                 }
             };
             return _Player;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UYg2rwJHjfTndNH+sVCUI3P6t9Hi20BRgyMp1X5WIjffvrBv8KH85ZqWeUnB0xb6Gb0QDCIlta3MEKyLKQmUvw==",
+  "dgSpecHash": "LbgZ+EemQuBg1MHpVOE6AnuDzwZWH3PudT7fhXQKWCkPYtj+OEIBFW3S/c+0g316+9z6howPUdnAUVp11qXv1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
+  "projectFilePath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigue\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bigue\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

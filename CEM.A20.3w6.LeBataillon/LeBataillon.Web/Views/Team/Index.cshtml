@@ -30,10 +30,10 @@
                 @Html.DisplayFor(modelItem => item.TeamName)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Captain)
+                @Html.DisplayFor(modelItem => item.CaptainId)
             </td>
             <th>
-                @Html.DisplayNameFor(model => model.JoueurMaximum)
+                @Html.DisplayFor(modelItem => item.JoueurMaximum)
             </th>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

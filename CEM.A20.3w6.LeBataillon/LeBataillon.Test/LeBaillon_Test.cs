@@ -14,7 +14,37 @@ namespace LeBataillon.Test
     public class LeBaillon_Test
     {
         [Fact]
-        public void Player_Test()
+        public void PlayerCreate_Test()
+        {
+            //Arrange
+            Player player = new Player()
+            {
+                Id = 3,
+                NickName = "Pepo",
+                Email = "Will19@hotmail.com",
+                PhoneNumber = "450-234-7272",
+                FirstName = "Pep",
+                LastName = "Damn",
+                Level = PlayerLevel.avancé
+            };
+            //Act
+
+            //Assert
+
+        }
+
+        [Fact]
+        public void PlayerValide_Test()
+        {
+            //Arrange
+
+            //Act
+
+            //Assert
+            //Assert.
+        }
+        [Fact]
+        public void PlayerIndex_Test()
         {
             //Arrange
             //var mockRepo = new Mock<PlayerData>();

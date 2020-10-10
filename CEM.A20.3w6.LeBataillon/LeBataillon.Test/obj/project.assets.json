@@ -9675,11 +9675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
+      "projectUniqueName": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
       "projectName": "LeBataillon.Test",
-      "projectPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
+      "projectPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\LeBataillon.Test.csproj",
       "packagesPath": "C:\\Users\\bigue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\obj\\",
+      "outputPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bigue\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9695,11 +9695,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {
-              "projectPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj"
+            "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj": {
+              "projectPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Database\\LeBataillon.Database.csproj"
             },
-            "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj": {
-              "projectPath": "C:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj"
+            "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj": {
+              "projectPath": "c:\\Users\\bigue\\Desktop\\Web\\Travail\\LeBataillon\\CEM.A20.3w6.LeBataillon\\LeBataillon.Web\\LeBataillon.Web.csproj"
             }
           }
         }

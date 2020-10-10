@@ -33,7 +33,7 @@ namespace LeBataillon.Database.Context
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            
         }
     }
 

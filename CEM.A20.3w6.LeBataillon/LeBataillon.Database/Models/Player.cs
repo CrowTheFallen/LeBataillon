@@ -39,10 +39,11 @@ namespace LeBataillon.Database.Models
         [Display(Name = "Surnom")]
         public string NickName { get; set; }
         [Required(ErrorMessage = "Veuillez désigner un adresse email ")]
-        [MaxLength(50)]
+        [MaxLength(50), EmailAddress]
         [Display(Name = "Émail")]
         public string Email { get; set; }
         [Display(Name = "Numéro de téléphone")]
+        [Phone]
         public string PhoneNumber { get; set; }
         [Required(ErrorMessage = "Veuillez désigner un prénom")]
         [MaxLength(50)]
@@ -56,7 +57,7 @@ namespace LeBataillon.Database.Models
         [Display(Name = "Niveau du joueur")]
         public PlayerLevel Level { get; set; }
 
-        //public virtual Player Captain { get; set; }
+        public virtual Team Team { get; set; }
 
 
 
