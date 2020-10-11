@@ -47,8 +47,8 @@ namespace LeBataillon.Test
         public void PlayerIndex_Test()
         {
             //Arrange
-            //var mockRepo = new Mock<PlayerData>();
-            //mockRepo.Setup(n => n.Players).Returns(PlayerMockData.GetPlayerTest());
+            var mockRepo = new Mock<PlayerMockData>();
+            //mockRepo.Setups.Returns(PlayerMockData.GetPlayerTest());
             //var controller = new PlayerController(mockRepo.Object);
             //Act
             //var result = controller.Index();

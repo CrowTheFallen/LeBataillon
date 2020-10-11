@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using LeBataillon.Database.Context;
 using LeBataillon.Database.Models;
 
+
 namespace LeBataillon.Web.Controllers
 {
     public class PlayerController : Controller

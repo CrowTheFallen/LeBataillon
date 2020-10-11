@@ -33,6 +33,22 @@ namespace LeBataillon.Database.MockData
                     TeamDefendant = 668,
                     TeamAttacker = 669,
                     status = GameStatus.forthcoming
+                },
+                new Game
+                {
+                    Id = 4,
+                    GameDateTime = DateTime.Now + TimeSpan.FromDays(26),
+                    TeamDefendant = 669,
+                    TeamAttacker = 670,
+                    status = GameStatus.forthcoming
+                },
+                new Game
+                {
+                    Id = 5,
+                    GameDateTime = DateTime.Now + TimeSpan.FromDays(22),
+                    TeamDefendant = 665,
+                    TeamAttacker = 666,
+                    status = GameStatus.finished
                 }
             };
             return _Game;

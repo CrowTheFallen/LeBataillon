@@ -29,6 +29,20 @@ namespace LeBataillon.Database.MockData
                     TeamName = "Lazer",
                     CaptainId = 3,
                     JoueurMaximum = 12
+                },
+                new Team
+                {
+                    Id = 4,
+                    TeamName = "Destruct",
+                    CaptainId = 4,
+                    JoueurMaximum = 8
+                },
+                new Team
+                {
+                    Id = 5,
+                    TeamName = "BigBoum",
+                    CaptainId = 5,
+                    JoueurMaximum = 10
                 }
             };
             return _Team;
